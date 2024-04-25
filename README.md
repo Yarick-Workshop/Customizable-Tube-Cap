@@ -1,4 +1,7 @@
 ## Customizable Cap for a rectangular Pipes and LED-Profiles
+<p align="center" width="100%">
+    <img width="50%" src="media/logo.jpg">
+</p>
 
 ⚠️ **In case of any questions** – do not hesitate to contact the author in Telegram group ([see below](#contact-me)) and ask.
 
